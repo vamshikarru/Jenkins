@@ -1,3 +1,5 @@
+#!/bin/sh
+
 timestamp()
 {
  date +"%Y-%m-%d %T"
